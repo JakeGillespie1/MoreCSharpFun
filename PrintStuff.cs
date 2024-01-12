@@ -9,6 +9,8 @@ namespace MoreCSharpFun
 {
     internal class PrintStuff
     {
+        public int blah = 0;
+
         /*This allows everything ONLY in THIS class to see 
         the language variable
         If there was no private keyword, 
